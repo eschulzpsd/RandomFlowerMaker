@@ -1,5 +1,4 @@
 import turtle as t
-import random
 from itertools import cycle
 
 colors = cycle(['violet','pink','cyan','white','red','orange','yellow','green','blue','purple'])
